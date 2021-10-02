@@ -1,0 +1,7 @@
+{
+  "id": "test",
+  "authors": ["me"],
+  "version": "something",
+  "source": "https://github.com/Deltara3/CSTM/archive/refs/heads/main.zip",
+  "type": "zip"
+}
