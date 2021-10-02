@@ -1,0 +1,8 @@
+{
+    "name": "test4",
+    "id": "test4",
+    "author": "test",
+    "version": "0.0.1-dev",
+    "sources": ["test4"],
+    "depends": ["test5"]
+}
