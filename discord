@@ -3,6 +3,5 @@
     "id": "discord",
     "author": "Deltara3",
     "version": "0.0.1-dev",
-    "sources": ["https://github.com/Deltara3/discord.spwn.git"],
-    "depends": ["test", "test3"]
+    "sources": ["https://github.com/Deltara3/discord.spwn.git"]
 }
