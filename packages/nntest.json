@@ -1,0 +1,9 @@
+{
+    "name": "nntest",
+    "id": "nntest",
+    "author": "someone",
+    "version": "0.1.0",
+    "source": "example|example/lib.spwn:b3RoZXIgPSBpbXBvcnQgIm90aGVyLnNwd24iXG5cbnJldHVybiB7XG4gICAgb3RoZXJcbn1cbg==;example/other.spwn:aGVsbG8gPSAoKSB7XG4gICAgJC5wcmludCgiSGVsbG8hIilcbn1cblxucmV0dXJuIHtcbiAgICBoZWxsb1xufVxu",
+    "depends": "",
+    "conflicts": ""
+}
