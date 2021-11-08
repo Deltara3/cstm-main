@@ -1,0 +1,9 @@
+{
+    "name": "testpkg",
+    "id": "testpkg",
+    "author": "someone",
+    "version": "0.1.0",
+    "source": "https://github.com/Deltara3/cstm-main/archive/refs/heads/main.zip",
+    "depends": "",
+    "conflicts": ""
+}
