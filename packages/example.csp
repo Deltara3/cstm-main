@@ -1,0 +1,9 @@
+{
+    "name": "example",
+    "id": "example",
+    "author": "me",
+    "version": "no",
+    "source": "example|example/lib.spwn:b3RoZXIgPSBpbXBvcnQgIm90aGVyLnNwd24iCgpyZXR1cm4gewogICAgb3RoZXIKfQ==;example/other.spwn:aGVsbG8gPSAoKSB7CiAgICAkLnByaW50KCJoZWxsbyIpCn0KCnJldHVybiB7CiAgICBoZWxsbwp9",
+    "depends": "",
+    "conflicts": ""
+}
